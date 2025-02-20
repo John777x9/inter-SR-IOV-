@@ -41,3 +41,7 @@ chmod +x 1.sh 2.sh 3.sh
 ```sh
 ./3.sh
 ```
+绕过pve认证
+```sh
+wget https://raw.githubusercontent.com/John777x9/inter-SR-IOV-/refs/heads/main/ppk.sh -O ppk.sh && chmod +x ppk.sh && ./ppk.sh
+```
