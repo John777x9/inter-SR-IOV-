@@ -28,7 +28,7 @@ cd proxmox-i915-sriov
 ```
 2. 赋予脚本执行权限
 ```sh
-chmod +x 1.sh 2.sh
+chmod +x 1.sh 2.sh 3.sh
 ```
 方法 3：使用 sh 执行
 ```sh
@@ -37,4 +37,7 @@ chmod +x 1.sh 2.sh
 完成重启在执行第二脚本
 ```sh
 ./2.sh
+```
+```sh
+./3.sh
 ```
